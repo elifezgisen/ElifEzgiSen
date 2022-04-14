@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: senezgi2009@gmail.com
 
+Skills: PYTHON / DART / SQL
+
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
