@@ -10,7 +10,7 @@
 
 ### Blogs posts
 <a href="https://ezgisen.medium.com/"><img src="https://github-readme-medium.vercel.app/?username=ezgisen" width="360" height="110"></a>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="430" height="200">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="420" height="230">
 
 
 <h3 align="left">Connect with me:</h3>
