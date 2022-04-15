@@ -7,10 +7,11 @@
 
 - 📫 How to reach me **senezgi2009@gmail.com**
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="450" height="250">
 
 ### Blogs posts
 <a href="https://ezgisen.medium.com/"><img src="https://github-readme-medium.vercel.app/?username=ezgisen" width="380" height="130"></a>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="450" height="250">
 
 
 <h3 align="left">Connect with me:</h3>
