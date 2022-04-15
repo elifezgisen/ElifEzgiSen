@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **senezgi2009@gmail.com**
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="450" height="250">
 
 ### Blogs posts
 <a href="https://ezgisen.medium.com/"><img src="https://github-readme-medium.vercel.app/?username=ezgisen"></a>
