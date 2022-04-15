@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ezgi 👋🏻</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-- 🔭 I’m currently working on **Face Recognition Project with Machine Learning**
+- 🔭 I’m currently working on **Face Recognition with Machine Learning**
 
 - 🌱 I’m currently learning **Flutter**
 
