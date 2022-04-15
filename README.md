@@ -9,7 +9,7 @@
 
 
 ### Blogs posts
-<a href="https://ezgisen.medium.com/"><img src="https://github-readme-medium.vercel.app/?username=ezgisen" width="360" height="120"></a>
+<a href="https://ezgisen.medium.com/"><img src="https://github-readme-medium.vercel.app/?username=ezgisen" width="360" height="110"></a>
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="450" height="250">
 
 
