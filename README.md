@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Ezgi 👋🏻</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-- 🔭 I’m currently working on **Face Recognition with OpenCV**
+- 🔭 I’m currently working on **MSSQL Project**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MSSQL**
 
 - 📫 How to reach me **senezgi2009@gmail.com**
 
