@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Ezgi 👋🏻</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **MSSQL Project**
+- 👩🏻‍💻 I’m currently working on **MSSQL Project**
 
-- 🌱 I’m currently learning **MSSQL**
+- 🌱 I’m currently learning and developing **Data Science Projects**
 
 - 📫 How to reach me **senezgi2009@gmail.com**
 
