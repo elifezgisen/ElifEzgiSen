@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Python ve Tensorflow**
+- 🌱 I’m currently learning **Python and Tensorflow**
 
 - 📫 How to reach me **senezgi2009@gmail.com**
 
