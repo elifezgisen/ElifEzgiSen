@@ -1,9 +1,11 @@
 <h1 align="center">Hi there, I'm Ezgi 👋🏻</h1>
 <h3 align="center">Software Developer</h3>
 
-- 👩🏻‍💻 I’m currently working on **Data Science Projects**
+- 👩🏻‍💻 I’m interested in **Data Science Projects**
 
 - ⚡ I’m currently learning **Python and Tensorflow**
+
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/elifezgisen/)**
 
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="429" height="230">
