@@ -5,7 +5,6 @@
 
 - ⚡ I’m currently learning **Python and Tensorflow**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/elifezgisen/)**
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="429" height="230">
 
